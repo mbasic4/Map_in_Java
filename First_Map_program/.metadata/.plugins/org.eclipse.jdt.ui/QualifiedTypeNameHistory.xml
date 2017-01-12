@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="de.fhpotsdam.unfolding.providers.Google.GoogleTerrainProvider"/>
+<fullyQualifiedTypeName name="module3.EarthquakeCityMap"/>
+<fullyQualifiedTypeName name="processing.core.PVector"/>
+<fullyQualifiedTypeName name="de.fhpotsdam.unfolding.providers.EsriProvider.WorldTopoMap"/>
+<fullyQualifiedTypeName name="de.fhpotsdam.unfolding.geo.Location"/>
+</qualifiedTypeNameHistroy>

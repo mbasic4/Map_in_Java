@@ -1,0 +1,22 @@
+package guimodule;
+
+import processing.core.PApplet;
+
+public class MyDisplay extends PApplet {
+	
+	public void setup()
+	{
+		size(400, 450);
+		background(200, 200, 200);
+		
+	}
+	
+	public void draw()
+	{
+		fill(255, 255, 0);
+		ellipse(200, 225, 400, 400);
+		ellipse(125, 175, 75, 75);
+		ellipse(275, 175, 75, 75);
+	}
+	
+}
